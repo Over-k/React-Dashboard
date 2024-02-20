@@ -1,8 +1,15 @@
-# Hosting App is (Coming soon...)
+# Dashboard App is (Coming soon...)
 
-### `npm start`
+## Quick Start
 
-Runs the app in the development mode.\
+Clone the repository with the following command:
+`git clone https://github.com/Over-k/React-Dashboard.git`
+Run in terminal this command:
+`npm install`
+
+Then run this command to start your local server
+`npm start`
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
